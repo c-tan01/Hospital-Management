@@ -1,3 +1,5 @@
+# THIS IS AN OLD CANCELLED PROJECT. THIS REPO IS NOW ARCHIVED.
+
 # HOSPITAL-MANAGEMENT
 
 This is a repository *entirely dedicated* for hospital management system
